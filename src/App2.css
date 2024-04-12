@@ -1,0 +1,8 @@
+
+#main-body{
+    background-color: #355070;
+    color: white;
+}
+#main-body:hover{
+    transform: scale(1.1);
+}
